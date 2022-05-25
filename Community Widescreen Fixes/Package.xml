@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>Community Widescreen Fixes</name>
+  <id>wxnder,tupelov,dniwetamp.widescreenfixes</id>
+  <author>wxnder, Tupelov, DniweTamp</author>
+  <version>1.5</version>
+  <link>https://gamebanana.com/guis/36413</link>
+  <description>Fixes UI issues when using the PCSX2 widescreen patch.</description>
+  <skippedVersion>all</skippedVersion>
+</Metadata>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>Persona 3 The Movie Portraits</name>
+  <id>wxnder.p3mbattleportraits</id>
+  <author>wxnder</author>
+  <version>2.3</version>
+  <link>https://gamebanana.com/mods/33838</link>
+  <description>Replaces the party portraits used during dungeon exploration with character artwork from the Persona 3 anime movies.
+
+Disable HQ Party Portraits if you would like to use the P3 movie portraits at all times.
+
+If you use this mod and HQ Party Portraits together, the default character portraits will display during dungeon exploration and the P3 movie portraits will display during battle.</description>
+  <skippedVersion>all</skippedVersion>
+</Metadata>

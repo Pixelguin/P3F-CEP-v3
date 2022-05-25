@@ -1,0 +1,190 @@
+<?xml version="1.0"?>
+<Packages xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <packages>
+    <Package>
+      <name>P3F Community Enhancement Pack</name>
+      <path>..P3F Community Enhancement Pack</path>
+      <enabled>false</enabled>
+      <id>p3fcep.p3fcep</id>
+      <hidden>false</hidden>
+      <link>https://github.com/Pixelguin/P3F-CEP-v3</link>
+    </Package>
+    <Package>
+      <name>[      ESSENTIALS      ]</name>
+      <path>.ESSENTIALS</path>
+      <enabled>false</enabled>
+      <id>zzdivideressentials</id>
+      <hidden>false</hidden>
+      <link />
+    </Package>
+    <Package>
+      <name>Emulation Essentials</name>
+      <path>Emulation Essentials</path>
+      <enabled>true</enabled>
+      <id>p3fcep.emulationessentials</id>
+      <hidden>false</hidden>
+      <link />
+    </Package>
+    <Package>
+      <name>Community Widescreen Fixes</name>
+      <path>Community Widescreen Fixes</path>
+      <enabled>true</enabled>
+      <id>wxnder,tupelov,dniwetamp.widescreenfixes</id>
+      <hidden>false</hidden>
+      <link>https://gamebanana.com/guis/36413</link>
+    </Package>
+    <Package>
+      <name>Widescreen Font Fix</name>
+      <path>Widescreen Font Fix</path>
+      <enabled>true</enabled>
+      <id>joenator.widescreentextfix</id>
+      <hidden>false</hidden>
+      <link>https://gamebanana.com/mods/33843</link>
+    </Package>
+    <Package>
+      <name>[      EXPANSIONS      ]</name>
+      <path>.EXPANSIONS</path>
+      <enabled>false</enabled>
+      <id>zzdividerexpansions</id>
+      <hidden>false</hidden>
+      <link />
+    </Package>
+    <Package>
+      <name>The Answer Compendium</name>
+      <path>The Answer Compendium</path>
+      <enabled>true</enabled>
+      <id>5ab72d6a-04d4-481f-8c62-bd8deb8e1193</id>
+      <hidden>false</hidden>
+      <link>https://gamebanana.com/gamefiles/13505</link>
+    </Package>
+    <Package>
+      <name>[      TWEAKS      ]</name>
+      <path>.TWEAKS</path>
+      <enabled>false</enabled>
+      <id>p3fcepteam.tweaks</id>
+      <hidden>false</hidden>
+      <link />
+    </Package>
+    <Package>
+      <name>Render Velvet Room Background</name>
+      <path>Render Velvet Room Background</path>
+      <enabled>true</enabled>
+      <id>tupelov.rendervelvetroombackground</id>
+      <hidden>false</hidden>
+      <link>https://gamebanana.com/mods/50320</link>
+    </Package>
+    <Package>
+      <name>Paulownia Mall QOL Pack</name>
+      <path>Paulownia Mall QOL Pack</path>
+      <enabled>true</enabled>
+      <id>tupelov.allarcademachinesalways_shopeverywhereatnight</id>
+      <hidden>false</hidden>
+      <link>https://gamebanana.com/gamefiles/13666</link>
+    </Package>
+    <Package>
+      <name>Healing Clocks</name>
+      <path>Healing Clocks</path>
+      <enabled>true</enabled>
+      <id>1d84d34f-f58b-43b4-8186-135d3038ccda</id>
+      <hidden>false</hidden>
+      <link>https://gamebanana.com/gamefiles/13506</link>
+    </Package>
+    <Package>
+      <name>[      MUSIC      ]</name>
+      <path>.MUSIC</path>
+      <enabled>false</enabled>
+      <id>p3fcepteam.music</id>
+      <hidden>false</hidden>
+      <link />
+    </Package>
+    <Package>
+      <name>High Quality Music</name>
+      <path>High Quality Music</path>
+      <enabled>true</enabled>
+      <id>arandomguy231,tupelov,joenator.highqualitymusicpack</id>
+      <hidden>false</hidden>
+      <link>https://gamebanana.com/sounds/54487</link>
+    </Package>
+    <Package>
+      <name>Level Up Theme</name>
+      <path>Level Up Theme</path>
+      <enabled>true</enabled>
+      <id>tupelov.restoredlevelupbgm</id>
+      <hidden>false</hidden>
+      <link>https://gamebanana.com/sounds/59389</link>
+    </Package>
+    <Package>
+      <name>[      INTERFACE      ]</name>
+      <path>.INTERFACE</path>
+      <enabled>false</enabled>
+      <id>p3fcepteam.interface</id>
+      <hidden>false</hidden>
+      <link />
+    </Package>
+    <Package>
+      <name>Classic Title Screen</name>
+      <path>Classic Title Screen</path>
+      <enabled>true</enabled>
+      <id>originalp3titlescreen</id>
+      <hidden>false</hidden>
+      <link>https://gamebanana.com/mods/308063</link>
+    </Package>
+    <Package>
+      <name>Slightly Rounded UI</name>
+      <path>Slightly Rounded UI</path>
+      <enabled>true</enabled>
+      <id>hanakomisa.srtextbox</id>
+      <hidden>false</hidden>
+      <link>https://gamebanana.com/mods/33839</link>
+    </Package>
+    <Package>
+      <name>[      PORTRAITS      ]</name>
+      <path>.PORTRAITS</path>
+      <enabled>false</enabled>
+      <id>[portraits]</id>
+      <hidden>false</hidden>
+      <link />
+    </Package>
+    <Package>
+      <name>High Quality Party Portraits</name>
+      <path>High Quality Party Portraits</path>
+      <enabled>true</enabled>
+      <id>betterqualitybattlepanel</id>
+      <hidden>false</hidden>
+      <link>https://gamebanana.com/guis/36954</link>
+    </Package>
+    <Package>
+      <name>Persona 3 The Movie Portraits</name>
+      <path>Persona 3 The Movie Portraits</path>
+      <enabled>false</enabled>
+      <id>wxnder.p3mbattleportraits</id>
+      <hidden>false</hidden>
+      <link>https://gamebanana.com/mods/33838</link>
+    </Package>
+    <Package>
+      <name>[      CHEATS      ]</name>
+      <path>.CHEATS</path>
+      <enabled>false</enabled>
+      <id>p3fcepteam.cheats</id>
+      <hidden>false</hidden>
+      <link />
+    </Package>
+    <Package>
+      <name>Social Link Cheat Sheet</name>
+      <path>Social Link Cheat Sheet</path>
+      <enabled>false</enabled>
+      <id>b339c0c4-c3e3-42e4-bc27-333e966b21f9</id>
+      <hidden>false</hidden>
+      <link>https://gamebanana.com/gamefiles/13084</link>
+    </Package>
+    <Package>
+      <name>Classroom Cheat Sheet</name>
+      <path>Classroom Cheat Sheet</path>
+      <enabled>false</enabled>
+      <id>b339c0c4-c3e3-42e4-bc27-333e966b21f8</id>
+      <hidden>false</hidden>
+      <link>https://gamebanana.com/gamefiles/13051</link>
+    </Package>
+  </packages>
+  <showHiddenPackages>true</showHiddenPackages>
+</Packages>

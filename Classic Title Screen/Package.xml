@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>Classic Title Screen</name>
+  <id>originalp3titlescreen</id>
+  <author>Joenator, wxnder</author>
+  <version>1.0.1</version>
+  <link>https://gamebanana.com/mods/308063</link>
+  <description>Styles the title screen after the original Persona 3 design.</description>
+  <skippedVersion>all</skippedVersion>
+</Metadata>

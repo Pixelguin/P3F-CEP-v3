@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>Level Up Theme</name>
+  <id>tupelov.restoredlevelupbgm</id>
+  <author>Tupelov</author>
+  <version>1.0</version>
+  <link>https://gamebanana.com/sounds/59389</link>
+  <description>Restores the unused level-up music track.</description>
+  <skippedVersion>all</skippedVersion>
+</Metadata>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>P3F Community Enhancement Pack</name>
+  <id>p3fcep.p3fcep</id>
+  <author>P3F CEP Team</author>
+  <version>3.0</version>
+  <link>https://github.com/Pixelguin/P3F-CEP-v3</link>
+  <description>Every setup tool and essential mod for Persona 3 FES in one beginner-friendly pack. Compiled and maintained by Pixelguin.
+
+Click on these section headers to learn more about each section.
+
+The next time you see Tekka, tell him that he needs to add section header functionality to Aemulus :)
+
+(Enabling/disabling headers won't do anything.)</description>
+</Metadata>

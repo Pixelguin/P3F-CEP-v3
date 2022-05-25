@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>Widescreen Font Fix</name>
+  <id>joenator.widescreentextfix</id>
+  <author>Joenator</author>
+  <version>1.5</version>
+  <link>https://gamebanana.com/mods/33843</link>
+  <description>Correctly scales the game font width when using the PCSX2 widescreen patch.</description>
+  <skippedVersion>all</skippedVersion>
+</Metadata>

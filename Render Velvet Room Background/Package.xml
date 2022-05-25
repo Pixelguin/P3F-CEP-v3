@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>Render Velvet Room Background</name>
+  <id>tupelov.rendervelvetroombackground</id>
+  <author>Tupelov</author>
+  <version>2.0</version>
+  <link>https://gamebanana.com/mods/50320</link>
+  <description>Makes the Velvet Room always render in 3D instead of using a low-resolution image.</description>
+  <skippedVersion>all</skippedVersion>
+</Metadata>

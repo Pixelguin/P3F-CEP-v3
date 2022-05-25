@@ -1,0 +1,2 @@
+//Silence sceOpen error messages by Sierra
+patch=0,EE,00558cd4,word,00000000

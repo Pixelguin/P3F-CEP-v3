@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<Metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>[      ESSENTIALS      ]</name>
+  <id>zzdivideressentials</id>
+  <author />
+  <version />
+  <link />
+  <description>Core mods for emulating Persona 3 FES in widescreen.
+
+You shouldn't disable any of these packages unless you're troubleshooting an issue.</description>
+  <skippedVersion>all</skippedVersion>
+</Metadata>

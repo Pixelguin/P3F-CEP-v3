@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>Paulownia Mall QOL Pack</name>
+  <id>tupelov.allarcademachinesalways_shopeverywhereatnight</id>
+  <author>Tupelov, Tekka</author>
+  <version>1.0</version>
+  <link>https://gamebanana.com/gamefiles/13666</link>
+  <description>Combines two QOL scripts for Paulownia Mall:
+
+All Arcade Machines Always: Makes every arcade game available at Game Panic at all times, regardless of date. Choose "Check the front" to boost social stats or "Check the back" to boost Persona stats.
+
+Shop Everywhere at Night: Allows you to shop at the police station and Be Blue V at night.</description>
+  <skippedVersion>all</skippedVersion>
+</Metadata>

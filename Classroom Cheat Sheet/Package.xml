@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>Classroom Cheat Sheet</name>
+  <id>b339c0c4-c3e3-42e4-bc27-333e966b21f8</id>
+  <author>Phoenix</author>
+  <version>1.15</version>
+  <link>https://gamebanana.com/gamefiles/13051</link>
+  <description>Adds an asterisk (*) next to the correct answers during classroom events.</description>
+  <skippedVersion>all</skippedVersion>
+</Metadata>

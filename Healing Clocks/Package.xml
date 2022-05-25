@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<Metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>Healing Clocks</name>
+  <id>1d84d34f-f58b-43b4-8186-135d3038ccda</id>
+  <author>Tekka</author>
+  <version>1.0</version>
+  <link>https://gamebanana.com/gamefiles/13506</link>
+  <description>[The Answer only]
+
+Adds an option to fully heal the party's HP/SP at save points before bosses.</description>
+  <skippedVersion>all</skippedVersion>
+</Metadata>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<Metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>Emulation Essentials</name>
+  <id>p3fcep.emulationessentials</id>
+  <author>ShrineFox, Sierrai17</author>
+  <version>1.0</version>
+  <link />
+  <description>Essential mods for emulating Persona 3 FES with PCSX2.
+
+--
+
+hostFS: Expands the memory size of the game executable and loads mods into the game.
+
+Silence sceOpen Errors: Stops "sceOpen error" messages from flooding the PCSX2 log.</description>
+  <skippedVersion>all</skippedVersion>
+</Metadata>

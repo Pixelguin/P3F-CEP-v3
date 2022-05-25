@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>High Quality Party Portraits</name>
+  <id>betterqualitybattlepanel</id>
+  <author>Joenator</author>
+  <version>2.0</version>
+  <link>https://gamebanana.com/guis/36954</link>
+  <description>Replaces the party portraits used during dungeon exploration with the higher-quality portraits used during battles.
+
+Disable Persona 3 The Movie Portraits if you would like to use the default portraits at all times.
+
+If you use this mod and Persona 3 The Movie Portraits together, the default character portraits will display during dungeon exploration and the P3 movie portraits will display during battle.</description>
+  <skippedVersion>all</skippedVersion>
+</Metadata>

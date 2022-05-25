@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>Slightly Rounded UI</name>
+  <id>hanakomisa.srtextbox</id>
+  <author>Misa</author>
+  <version>2.0</version>
+  <link>https://gamebanana.com/mods/33839</link>
+  <description>Slims down the textboxes used for dialogue and skills while keeping the rounded edges.</description>
+  <skippedVersion>all</skippedVersion>
+</Metadata>
